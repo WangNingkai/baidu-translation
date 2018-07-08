@@ -71,7 +71,7 @@ class BaiduTranslation
      */
     public function buildSign($query, $appID, $salt, $secKey)
     {
-        $sign="{$appID}{$query}{$salt}{$secKey}";
+        $sign = $appID . $query . $salt . $secKey;
         $result = md5($sign);
         return $result;
     }
