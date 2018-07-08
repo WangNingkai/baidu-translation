@@ -1,7 +1,11 @@
 {
     "name": "wangningkai/baidu-translation",
     "description": "百度翻译API封装",
-    "keywords": ["百度翻译API", "baidu", "WangNingkai"],
+    "keywords": [
+        "百度翻译API",
+        "baidu",
+        "WangNingkai"
+    ],
     "license": "MIT",
     "authors": [{
         "name": "WangNingkai",
@@ -17,8 +21,3 @@
     },
     "minimum-stability": "dev"
 }
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https: //github.com/WangNingkai/baidu-translation.git
-git push -u origin master
