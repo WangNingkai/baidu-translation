@@ -60,7 +60,6 @@ class BaiduTranslation
         }
         return ['result'=>$ret['trans_result'][0]['dst'],'status'=>'0'];
     }
-
     /**
      * 签名构造
      * @param $query
