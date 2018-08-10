@@ -1,4 +1,10 @@
-# 百度翻译API封装
+百度翻译API封装
+==================
+
+[![Latest Stable Version](https://poser.pugx.org/wangningkai/baidu-translation/v/stable)](https://packagist.org/packages/wangningkai/baidu-translation)
+[![Total Downloads](https://poser.pugx.org/wangningkai/baidu-translation/downloads)](https://packagist.org/packages/wangningkai/baidu-translation)
+[![Latest Unstable Version](https://poser.pugx.org/wangningkai/baidu-translation/v/unstable)](https://packagist.org/packages/wangningkai/baidu-translation)
+[![License](https://poser.pugx.org/wangningkai/baidu-translation/license)](https://packagist.org/packages/wangningkai/baidu-translation)
 
 ### Usage:
 
